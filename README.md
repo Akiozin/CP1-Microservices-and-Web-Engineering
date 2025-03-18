@@ -20,7 +20,7 @@ RM98582
 
 ## 📦 Docker Hub  
 A imagem do projeto está disponível em:  
-[Docker Hub - fiap-checkpoint1]([https://hub.docker.com/r/akiozin/fiap-checkpoint1](https://hub.docker.com/repository/docker/akiozin/fiap-checkpoint1-sem1))  
+[Docker Hub - fiap-checkpoint1](https://hub.docker.com/repository/docker/akiozin/fiap-checkpoint1-sem1)  
 
 ## 📝 Licença  
 Projeto acadêmico sem fins lucrativos.
